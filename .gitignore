@@ -4,3 +4,4 @@ __pycache__/
 .env
 .DS_Store
 game_state.jsonl
+game_events.json1
